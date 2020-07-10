@@ -7,4 +7,3 @@ A Project to analyse rise of AMR, policies and their impacts
 
 
 P.S. All the scripts are kept in scripts folder. Have a look and enjoy :)
-
